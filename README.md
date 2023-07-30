@@ -1,5 +1,5 @@
 # Equalizer_microphone_js
-Эксперименты с визуализацией входящего аудиопотока микрофона.
+Experiments with visualization of the incoming microphone audio stream.
 ## Демо
 https://gloagent.ru/category/blog/web/sound.html (необходимо подключить микрофон)
 ## Ссылки
